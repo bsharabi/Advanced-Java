@@ -23,18 +23,19 @@
 ***
 ## Day 04 - 13.03.19
 ***
-  - [Thread](https://github.com/bsharabi/Advanced-Java/tree/master/Day%2004%20-%2013.03.19/Thread)
-    - [HomeWork](https://github.com/bsharabi/Advanced-Java/tree/master/Day%2004%20-%2013.03.19/Thread/HomeWork)
 ## Day 05 - 14.03.19
 ***
 ## Day 06 - 28.03.19
 ***
+  - [2](https://github.com/bsharabi/Advanced-Java/tree/master/Day%2006%20-%2028.03.19/2)
+    - [HTMLParsing](https://github.com/bsharabi/Advanced-Java/tree/master/Day%2006%20-%2028.03.19/2/HTMLParsing)
   - [TCPClient1](https://github.com/bsharabi/Advanced-Java/tree/master/Day%2006%20-%2028.03.19/TCPClient1)
   - [TCPServer_simple](https://github.com/bsharabi/Advanced-Java/tree/master/Day%2006%20-%2028.03.19/TCPServer_simple)
 ## Day 07 - 04.04.19
 ***
 ## Day 08 - 11.04.19
 ***
-  - [Result](https://github.com/bsharabi/Advanced-Java/tree/master/Day%2008%20-%2011.04.19/Result)
-    - [client](https://github.com/bsharabi/Advanced-Java/tree/master/Day%2008%20-%2011.04.19/Result/client)
-    - [server](https://github.com/bsharabi/Advanced-Java/tree/master/Day%2008%20-%2011.04.19/Result/server)
+  - [Server side + client](https://github.com/bsharabi/Advanced-Java/tree/master/Day%2008%20-%2011.04.19/Server%20side%20+%20client)
+    - [client](https://github.com/bsharabi/Advanced-Java/tree/master/Day%2008%20-%2011.04.19/Server%20side%20+%20client/client)
+    - [server](https://github.com/bsharabi/Advanced-Java/tree/master/Day%2008%20-%2011.04.19/Server%20side%20+%20client/server)
+  - [Server side + client2](https://github.com/bsharabi/Advanced-Java/tree/master/Day%2008%20-%2011.04.19/Server%20side%20+%20client2)
