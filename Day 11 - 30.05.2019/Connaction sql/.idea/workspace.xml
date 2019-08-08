@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db7d8de4-e918-4b1f-9f9b-4a27799b6fa9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connaction sql.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 01 - 05.03.19/Result01/Hotel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 01 - 05.03.19/Result01/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 01 - 05.03.19/Result02/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 01 - 05.03.19/Result02/Shop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 01 - 05.03.19/Result03/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 01 - 05.03.19/Result03/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 01 - 05.03.19/Result03/NewItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 01 - 05.03.19/Result04/Check.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 01 - 05.03.19/Result04/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 01 - 05.03.19/חוברת תרגילים.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 02 - 07.03.19/HomeWork/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 02 - 07.03.19/HomeWork/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 02 - 07.03.19/HomeWork/Result01/Aquarium.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 02 - 07.03.19/HomeWork/Result01/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 02 - 07.03.19/HomeWork/Result02/FreshAquarium.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 02 - 07.03.19/HomeWork/Result02/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 02 - 07.03.19/HomeWork/Result03/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 02 - 07.03.19/HomeWork/Result03/SaltAquarium.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 02 - 07.03.19/HomeWork/Result04/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 02 - 07.03.19/HomeWork/Result04/Store.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 02 - 07.03.19/HomeWorkB/Result01/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 02 - 07.03.19/HomeWorkB/Result02/SiameseCat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 02 - 07.03.19/HomeWorkB/Result02/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 02 - 07.03.19/HomeWorkB/Result03/PersianCat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 02 - 07.03.19/HomeWorkB/Result03/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 02 - 07.03.19/HomeWorkB/Result04/Store.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 02 - 07.03.19/HomeWorkB/Result04/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 02 - 07.03.19/TaskClass/GraphGrades.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 02 - 07.03.19/TaskClass/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 02 - 07.03.19/TaskClass/StdDraw.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 03- 12.03.19/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 03- 12.03.19/Task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 04 - 13.03.19/AB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 04 - 13.03.19/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 05 - 14.03.19/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 05 - 14.03.19/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 05 - 14.03.19/Place.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 06 - 28.03.19/2/HTMLParsing/.idea/HTMLParsing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 06 - 28.03.19/2/HTMLParsing/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 06 - 28.03.19/2/HTMLParsing/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 06 - 28.03.19/2/HTMLParsing/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 06 - 28.03.19/2/HTMLParsing/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 06 - 28.03.19/TCPClient1/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 06 - 28.03.19/TCPClient1/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 06 - 28.03.19/TCPClient1/TCPClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 06 - 28.03.19/TCPClient1/TCPClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 06 - 28.03.19/TCPServer_simple/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 06 - 28.03.19/TCPServer_simple/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 06 - 28.03.19/TCPServer_simple/TCPServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 06 - 28.03.19/TCPServer_simple/TCPServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 06 - 28.03.19/TCPServer_simple/socketHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 06 - 28.03.19/TCPServer_simple/socketHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 07 - 04.04.19/TCPClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 07 - 04.04.19/TCPServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 07 - 04.04.19/Task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 07 - 04.04.19/socketHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 08 - 11.04.19/Server side + client/ClassTask -  Server side + client .md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 08 - 11.04.19/Server side + client/client/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 08 - 11.04.19/Server side + client/client/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 08 - 11.04.19/Server side + client/client/Lecture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 08 - 11.04.19/Server side + client/client/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 08 - 11.04.19/Server side + client/client/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 08 - 11.04.19/Server side + client/client/TCPClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 08 - 11.04.19/Server side + client/server/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 08 - 11.04.19/Server side + client/server/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 08 - 11.04.19/Server side + client/server/Lecture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 08 - 11.04.19/Server side + client/server/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 08 - 11.04.19/Server side + client/server/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 08 - 11.04.19/Server side + client/server/TCPServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 08 - 11.04.19/Server side + client/server/socketHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 08 - 11.04.19/Server side + client2/ClassTask2 -  Server side + client .md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 08 - 11.04.19/Server side + client2/Lecturer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 08 - 11.04.19/Server side + client2/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 08 - 11.04.19/Server side + client2/SocketHandle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 08 - 11.04.19/Server side + client2/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 08 - 11.04.19/Server side + client2/TCPClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 08 - 11.04.19/Server side + client2/TCPServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/ClassTask.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/Server side + client/ClassTask -  Server side + client .md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/Server side + client/client/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/Server side + client/client/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/Server side + client/client/Lecture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/Server side + client/client/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/Server side + client/client/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/Server side + client/client/TCPClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/Server side + client/server/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/Server side + client/server/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/Server side + client/server/Lecture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/Server side + client/server/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/Server side + client/server/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/Server side + client/server/TCPServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/Server side + client/server/socketHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/Server side + client2/ClassTask2 -  Server side + client .md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/Server side + client2/Lecturer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/Server side + client2/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/Server side + client2/SocketHandle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/Server side + client2/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/Server side + client2/TCPClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/Server side + client2/TCPServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/TCPClientobject/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/TCPClientobject/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/TCPClientobject/Lecture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/TCPClientobject/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/TCPClientobject/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/TCPClientobject/TCPClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/TCPServerobject/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/TCPServerobject/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/TCPServerobject/Lecture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/TCPServerobject/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/TCPServerobject/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/TCPServerobject/TCPServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 09 - 16.05.19/TCPServerobject/socketHandler.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Program/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Program/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1939" />
+    <option name="height" value="1099" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Connaction sql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Connaction sql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Connaction sql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Connaction sql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Connaction sql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Connaction sql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Program" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559208530059" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Program.Main" />
+      <module name="Connaction sql" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db7d8de4-e918-4b1f-9f9b-4a27799b6fa9" name="Default Changelist" comment="" />
+      <created>1559198593153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559198593153</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.12550336" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.41076487" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Program/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Connaction sql</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>mysql-connector-java-8.0.16</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
